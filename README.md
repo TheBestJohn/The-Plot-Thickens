@@ -11,7 +11,6 @@ Could be **VERY** cool with puregcode printint as well
 
 [ShapePanel](https://github.com/ZachHofmeister/ShapePlane)
 Makes some cool shapes, saves to `C:\Users\<USERNAME>\Documents\ShapePlan\images` as PDF.
-**Note:** need to install a dropbox library with license checking that isn't enabled at all. No software license attached.
 
 [raster plotter](https://github.com/ivangrozny/raster-plotter) //Not working? 
 requires The Midibus and Drop libraries
